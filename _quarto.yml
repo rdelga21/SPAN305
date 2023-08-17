@@ -3,13 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Spanish 305"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - Syllabus.qmd
-
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Syllabus"
+        contents:
+          - Syllabus.qmd
+      - section: "Handouts"
+        contents:
+        - Handout 1.qmd
 format:
   html:
     theme: cosmo

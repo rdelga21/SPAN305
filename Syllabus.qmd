@@ -1,5 +1,5 @@
 ---
-title: "Spanish 305: Structure of Spanish"
+title: "Syllabus"
 author:
   - "Delgado, FA23"
   - "T-Th 9:30 am - 10:50 am"
