@@ -12,7 +12,7 @@ website:
           - Syllabus.qmd
       - section: "Handouts"
         contents:
-        - Handout 1.qmd
+        - Handout_1.qmd
 format:
   html:
     theme: cosmo
