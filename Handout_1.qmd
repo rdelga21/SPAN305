@@ -56,3 +56,171 @@ Por ejemplo, la lingüística descriptiva diría que se usa *le* en la zona de n
 
 (4) a. este  algodon es atal  que    **se  non**  quema por fuego^[Anonymous, Lapidario, fol. 17R; c. 1250]
     this cotton is such that **SE not** burns by fire
+    
+b. este algodón es tal por que **no se** quema por el fuego
+c. \* este algodón es tal que **se no** quema por el fuego 
+    
+(5) a. No hay guisa por que esto **se esto** diga^[Anonymous, Calila e Dimna, Chap. 3; 1251]
+
+    not is fashion by which **SE this** say
+    
+b. No hay manera por el cual **se dice esto**
+    
+    c.\* No hay manera por el cual **se esto dice**
+    
+- Un análisis sincrónico se preocupa por el comportamiento actual de los elementos:
+
+(6) a. Juan **se** comió el pastel. - "SE aspectual"
+    b. Juan **se lo** comió.
+
+(7) a. No **se** toca el oso - "SE impersonal"
+    b. \* No **se lo** toca
+    
+- **La segunda mitad del siglo 20:** La lingüística, y otras disciplinas, en ese momento, estaba dominada por ***el conductismo*** (“behaviorism”), que decía que la lengua debe ser descrito simplemente como un conjunto de respuestas a un conjunto concreto de estímulos.
+    - **Noam Chomsky**, el fundador de la lingüística generativa, demostró que no puede ser así, que es necesario describir el lenguaje mediante modelos que implican estados o entidades mentales.
+    
+**Una actividad en grupo:** Mientras veamos el siguiente video que describe las ideas básicas del conductismo, piensa sobre la adquisición del lenguaje en términos de estimulo-respuesta. Es decir, ¿Qué dice el conductismo sobre como adquirimos nuestras lenguas maternas?
+
+    - https://www.youtube.com/watch?v=ZsiMkxBFF74
+
+## La respuesta de Chomsky al conductismo
+
+- La adquisición del lenguaje no puede ser el resultado de un conjunto de respuestas a un conjunto de estímulos concretos por una razón principal: Podemos entender y producir oraciones que jamás hemos oído con anterioridad, como la de (8).
+
+(8) Aquella monja habla japonés solo con mi suegra. 
+
+**Una pregunta:** ¿Entonces, como adquiramos nuestras idiomas maternos?
+
+**La respuesta de Chomsky:** No se adquiere.
+
+# La adquisición  
+
+## La instrucción explicita
+
+- Tenemos conocimiento (tácito) de nuestra lengua. Sabemos cosas que nunca nos han enseñado. 
+
+*El inglés:*
+
+(9) a. You think that the thief stole **what**?
+    b. **What** do you think that the thief stole __?
+    
+(10) a. You saw the thief that stole **what**?
+    b. \* **What** did you see the thief that stole __?
+
+*El español:*
+
+(11) a. ¿Crees que el ladrón robó *qué*?
+    b. ¿*Qué* crees que robó el ladrón __?
+    
+(12) a. ¿Ése es el ladrón que robó *qué*?
+    b. \* ¿*Qué* es ése el ladrón que robó __ ?
+    
+- Otro ejemplo:
+
+(13) a. Juan se comió *una pera*.
+    b. ¿*Qué* se comió Juan ___?
+    c. Juan se bebió un agua.
+    d. ¿*Qué* se bebió Juan ___?
+    
+(14) a. Juan se comió *una pera* y se bebió *un agua*.
+    b. \* ¿*Qué* se comió Juan ___ y se bebió un agua?
+    
+**Una pregunta**: ¿Quién nos ha enseñado de forma explicita esto sobre nuestra lengua?
+
+**Otra pregunta**: ¿Cuántas oraciones agramaticales existen? ¿Crees que es probable que nos han enseñado que todas las oraciones agramaticales son agramaticales? 
+
+*La conclusión:* Tenemos conocimientos (tácitos) de nuestras lenguas sin que nos hayan enseñado de forma explicita. 
+
+## El problema lógico de la adquisición del lenguaje 
+
+(que se conoce también como “El problema de Platón”).
+
+**Premisa 1**: El Lenguaje es creativo e infinito.
+**Premisa 2**: No se puede aprender los sistemas infinitos.
+**Conclusión**: El Lenguaje no se aprende.
+
+**Premisa 1: El Lenguaje es creativo e infinito.**
+
+- El lenguaje creativo: hay muchas oraciones que jamás has oído y hay más que puedes producir.
+
+(15) Un agujero en la pared del sótano de tu primo parece una boca, aunque le faltan los dientes, probablemente por ser un agujero.
+
+- El lenguaje humano es recursivo: Es decir, cualquier oración se puede incrustar dentro de otra.
+
+(16) 
+a. [Sofía come arándanos]
+b. [María cree que [Sofía come arándanos] ]
+c. [José sabe que [María cree que [Sofía come arándanos]] ]
+d. [Juan dijo que [José sabe que [María cree que [Sofía come arándanos]]] 
+e. etc…
+
+- Eso implica que el número de oraciones de un idioma es infinito.
+
+- Otros ejemplos de infinitud en del Lenguaje
+
+(17)
+a. Me gustan los pimientos muy picantes.
+b. Me gustan los pimientos muy muy picantes.
+c. Me gustan los pimientos muy muy muy picantes.
+d. Me gustan los pimientos muy muy muy muy picantes.
+e. etc…
+
+(18)
+a.  Susana
+b.  Susana y Guillermo
+c.  Susana, María y Guillermo
+d.  Susana, Pedro, María y Guillermo
+e.  Susana, Alejandro, Pedro, María y Guillermo
+f.  Susana, Julia, Alejandro, Pedro, María y Guillermo
+g. etc…
+
+**Premisa II: No se puede aprender los sistemas infinitos.**
+
+Es decir, determinar una regla a base los datos presentes en el ambiente, o sólo a base de lo que uno está expuesto, no es posible, pues nunca se sabrá si ha sido expuesto a todos los datos necesarios para inducir la regla. 
+
+Una actividad en grupo: Propón una regla o reglas que explica(n) la distribución del llamado “a” personal del español a base de los datos en (19). Es decir, ¿cuándo se usa la “a” personal?
+
+(19) a.	Juan vio a María.
+    b.	El león se comió a Juan.
+    c.	Juan vio la película.
+    
+**La regla:**
+
+
+**Más datos**: ¿Cómo se modifica la regla a base de los siguientes datos?
+
+(20) a. Juan vio una avispa.
+    b. El león se comió la oveja.
+    
+**La regla nueva:**
+
+**Más datos:**
+
+(21) a. El director busca una secretaria.
+    b. El director busca a una secretaria.
+    
+**Pregunta**: ¿Es la regla de arriba correcta? ¿Hay que modificarla a base de los datos en (21)? 
+
+**Otra pregunta:** ¿Y si nunca llegamos a estar expuestos a los datos en (20)? ¿Sabríamos que habría que modificar la regla? ¿Podríamos llegar a la regla correcta?
+
+**Otro ejemplo**: Tomado de Carnie (2007)
+
+- El input son las oraciones a que estamos expuesto en el ambiente, y el output es lo que la gente produce. Podemos pensar que el trabajo del niño es inducir la formula que regula el input y el output.  
+
+(22)
+| Input | Formula | Output |
+|------|------|------|
+| x    |    | y    |
+| 1    |     | 1    |
+| 2    |     | 2    |
+| 3    |    | 3    |
+| 4    |    | 4    |
+| 5    |    | 5    |
+| 6    |    | ?    |
+
+? = ____
+
+Con una infinitud de oraciones, no se le puede esperar al niño que induce todas las reglas, pues siempre va a haber datos nuevos que pueden hacer cambiar la regla. De hecho, hay una infinitud de datos nuevos a que nunca estará expuesto el niño.
+
+**El problema lógico de la adquisición del lenguaje, simplificado:**
+
