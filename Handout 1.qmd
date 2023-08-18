@@ -1,7 +1,5 @@
 ---
 title: "Handout 1: La introducción a la lingüística generativa"
-author:
-  - "Spanish 305"
 highlight-style: pygments
 format:
   html: default
@@ -10,3 +8,19 @@ format:
 ---
 
 # Introducción histórica
+
+- Brevemente situamos nuestro estudio del lenguaje en la historia de la lingüística
+
+## Propiedades de la lingüística “tradicional”
+
+**Actividad en clase:** En grupos, apunta los 4 principios de la lingüística tradicional listado en el texto:
+
+i. 
+
+ii. 
+
+iii. 
+
+iv.
+
+## Las reglas prescriptivas vs. las reglas descriptivas
