@@ -224,3 +224,17 @@ Con una infinitud de oraciones, no se le puede esperar al niño que induce todas
 
 **El problema lógico de la adquisición del lenguaje, simplificado:**
 
+- No es posible determinar la reglas de un sistema hasta que tengas todos los datos.
+- El Lenguaje es infinito y creativo, por lo tanto no puedes estar expuesto a todos los datos. (Es imposible saber si por casualidad no has oído todos los datos).
+- Consecuentemente: Las piezas principales del lenguaje no se puede aprender ni adquirir. 
+
+**La conclusión de Noam Chomsky:**
+
+La capacidad de los humanos para el Lenguaje es innata (es un instinto). Estamos preprogramados para tener el Lenguaje. 
+
+A esta programa o receta se le llama **una gramática.**
+
+Todos los seres humanos tenemos esa gramática – **la gramática universal (Universal Grammar “UG”)**
+
+
+
