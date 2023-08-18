@@ -42,3 +42,17 @@ Por ejemplo, la lingüística descriptiva diría que se usa *le* en la zona de n
 
 ## Hacía la lingüística moderna
 
+- **Los finales del siglo 18:** Un momento importante en la lingüística moderna fue alrededor de los finales del siglo 18 (o sea, por los años 1700). Se descubrió una conexión genealógica entre la mayor parte de los idiomas de Europa y el sánscrito y otros idiomas de la India e Irán.
+    - El efecto era el desarrollo de estudios del lenguaje de una ***perspectiva diacrónica*** (“histórica”) y estudios comparativos entre lenguas próximas y remotas. 
+    
+- **A principios del siglo 20:** Gracias en gran parte a Ferdinand de Saussure, el enfoque cambió del estudio ***diacrónico*** de las lenguas al estudio ***sincrónico*** de las lenguas. Es decir, al estudio de una lengua en un momento determinado en el tiempo. 
+    - Un efecto era un fomento en la investigación de lenguas que no poseían un sistema de escritura, algo que era difícil hacer desde una perspectiva histórica.     - La principal contribución era señalar que toda idioma constituye un ***sistema***, con elementos relacionados entre sí. 
+    
+(3) - **Latin** - Full noun with "long" e - *sē*
+    - **Old Spanish** - Full noun with "short" e - *se*
+    - **Modern Spanish**^[Latin (200 BC-500 AD), Old Spanish (1200-1400), Middle Spanish (1400-1600), Modern Spanish (1600-present)] - A clitic pronoun attached to the verb - *se*
+    
+- Un análisis *diacrónico* se preocupa por los cambios:
+
+(4) a. este  algodon es atal  que    **se  non**  quema por fuego^[Anonymous, Lapidario, fol. 17R; c. 1250]
+    this cotton is such that **SE not** burns by fire
