@@ -2,5 +2,5 @@
 title: "Spanish 305"
 ---
 
-This is the website of Spanish 305 - The structure of Spanish
+This is the website of Spanish 305 - The structure of Spanish. Here you will find the handouts for the week.
 
