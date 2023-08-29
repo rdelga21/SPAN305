@@ -200,6 +200,34 @@
     "href": "Handout_3.html",
     "title": "Handout 3: La introducción a la lingüística generativa",
     "section": "",
-    "text": "Resumen breve\n\nHemos visto que gran parte de nuestra lengua no se aprende. Tenemos conocimientos tácitos, sin que nos los hayan enseñado de forma explicita.\nLa conclusión de Chomsky: La capacidad de los humanos para el Lenguaje es innata (es un instinto). Estamos preprogramados para tener y usar el Lenguaje.\nLa parte común compartida entre todos seres humanos, la gramatical universal, tiene que ser suficientemente abstracto como para permitir que los niños adquieren cualquier lengua humana.\n\n\n\nEl objeto de estudio\n\nQueremos investigar este objeto abstracto y determinar lo que es, su partes etc.\nEs decir, nos interesa la competencia no actuación de una lengua.\n\nLa competencia: El conocimiento (muy a menudo tácito) que tiene un hablante de su lengua materna. → Es un objeto interno de la mente humana. - lo que uno sabe cuando se dice que uno sabe un idioma es su competencia"
+    "text": "Hemos visto que gran parte de nuestra lengua no se aprende. Tenemos conocimientos tácitos, sin que nos los hayan enseñado de forma explicita.\nLa conclusión de Chomsky: La capacidad de los humanos para el Lenguaje es innata (es un instinto). Estamos preprogramados para tener y usar el Lenguaje.\nLa parte común compartida entre todos seres humanos, la gramatical universal, tiene que ser suficientemente abstracto como para permitir que los niños adquieren cualquier lengua humana."
+  },
+  {
+    "objectID": "Handout_3.html#los-corpus",
+    "href": "Handout_3.html#los-corpus",
+    "title": "Handout 3: La introducción a la lingüística generativa",
+    "section": "Los corpus",
+    "text": "Los corpus\n\nLos corpus de idiomas hablados y escritos; Grabaciones del habla actual de la gente; Grabaciones de conversaciones telefónicas; Periódicos, libros y revistas; Cuentos folclóricos grabados en el campo; El internet, etc."
+  },
+  {
+    "objectID": "Handout_3.html#los-juicios-de-agramaticalidad-las-intuiciones",
+    "href": "Handout_3.html#los-juicios-de-agramaticalidad-las-intuiciones",
+    "title": "Handout 3: La introducción a la lingüística generativa",
+    "section": "Los juicios de (a)gramaticalidad – las intuiciones",
+    "text": "Los juicios de (a)gramaticalidad – las intuiciones\n\nEmpleamos una técnica especial para sacar a luz los conocimientos innatos que tiene un nativo hablante sobre la sintaxis.\n\n\n\nJuan compró la película.\n*Juan compró a la película.\n\n\n\nLos juicios de gramaticalidad son experimentalmente válidos y estadísticamente robustos.\nSon una indicación del sistema interna que regula la formación de las oraciones del idioma."
+  },
+  {
+    "objectID": "Handout_3.html#juicios-sintácticos-vs.-juicios-semánticos",
+    "href": "Handout_3.html#juicios-sintácticos-vs.-juicios-semánticos",
+    "title": "Handout 3: La introducción a la lingüística generativa",
+    "section": "Juicios sintácticos vs. juicios semánticos",
+    "text": "Juicios sintácticos vs. juicios semánticos\n\nLos juicios sintácticos tienen que ver con la FORMA/ESTRUCTURA de una oración y se marca con un asterisco (“*”) para indicar un problema sintáctico – cuando la oración es agramatical.\n\n\n\n*Han los niños jugado.\n*Padres llevan a sus hijos a la escuela.\n\n\n\nLos juicios semánticos tienen que ver con el SIGNIFICADO de una oración y se marca con un hashtag (“#”) para indicar un problema semántico – cuando la oración es anómala.\n\n\n\n#El archivador se bebió una silla.\n#Las ideas incoloras verdosas duermen furiosamente. (“Colorless green ideas sleep furiously” Chomsky (1959))\n\n\nNota: Es posible que en algunos casos la interpretación es importante, pero nos interesa más aquí los juicios sintácticos – con oraciones estructuralmente ambiguas.\n\n\nEl chico tocó el oso con una rama.\nEl chico lo tocó con una rama.\n\n\nEl conjunto de oraciones gramaticales y agramaticales forman nuestra base de datos. Son observaciones (tal como los astrólogos observan el comportamiento de los cuerpos celestiales) a base de los cuales queremos determinar la esencia del objeto interno de estudio: la gramatical universal.\n\nNuestra perspectiva es la organización cognitiva de la estructura de la oración en le mente del hablante nativo.\n\nPregunta: Pero ¿Cómo se hace esto?\nLa respuesta: Aplicamos el método científico para determinar la estructura de la oración. Queremos determinar las reglas, o principios, o las leyes (universales) de la formación de las oraciones."
+  },
+  {
+    "objectID": "Handout_3.html#aplicando-el-método-científico-los-adjetivos-del-español",
+    "href": "Handout_3.html#aplicando-el-método-científico-los-adjetivos-del-español",
+    "title": "Handout 3: La introducción a la lingüística generativa",
+    "section": "Aplicando el método científico – los adjetivos del español",
+    "text": "Aplicando el método científico – los adjetivos del español\n\nLa estructura de una oración tiene que ver con la distribución de los elementos dentro de la oración – es decir, las condiciones que permite que aparece un elemento, dónde puede aparece etc.\n\nActividad: Considera (es decir, observa) la distribución de los adjetivos en español en el conjunto de oraciones en (5). Observa su comportamiento.\n\n\nUna mesa amarilla.\nUn vaso bonito.\n*Una niña alto.\n*El chico simpática.\nUna película larga.\n*Un libro aburrida.\n\n\nUna pregunta: ¿Qué determina la distribución de los adjetivos? Es decir, ¿Cuándo son gramaticales y cuándo son agramaticales? Ofrece una hipótesis (o sea, “guess”).\nUna hipótesis: ??\nUna pregunta: ¿Explica la distribución de los adjetivos en (6) tu hipótesis?\n\n\nUn chico simpático.\n*Unos chicos simpático.\n*Una chica preparadas.\nUnas chicas preparadas.\n*Los libros corto.\n\n*El libro cortos.\n\n\nHipótesis modificada:"
   }
 ]

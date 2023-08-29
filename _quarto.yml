@@ -14,7 +14,6 @@ website:
         contents:
         - Handout_1.qmd
         - Handout_week2.qmd
-        - test.qmd
         - Handout_3.qmd
 format:
   html:

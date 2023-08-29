@@ -22,6 +22,104 @@ format:
 -   Es decir, nos interesa **la competencia** no **actuación** de una lengua.
 
 **La competencia**: El conocimiento (muy a menudo tácito) que tiene un hablante de su lengua materna. → Es un objeto interno de la mente humana.
-    - lo que uno sabe cuando se dice que uno sabe un idioma es su competencia
+    - lo que uno sabe cuando se dice que *uno sabe un idioma* es su competencia
     
+**La actuación**: La producción/la externalización de la lengua, lo que “sale de la boca” cuando hablamos. 
+    - cómo utilizamos el lenguaje o lo que producimos el es la actuación (“performance”)
+    
+**Pregunta:** ¿Cómo accedemos a la competencia? ¿Cuáles son nuestras fuentes de datos?
+
+**Respuesta:** Hay dos principales: (i) los corpus; y (ii) los juicios de (a)gramaticalidad del nativo hablante.
+
+# Las fuentes de datos
+
+## Los corpus 
+
+- Los corpus de idiomas hablados y escritos; Grabaciones del habla actual de la gente; Grabaciones de conversaciones telefónicas; Periódicos, libros y revistas;  Cuentos folclóricos grabados en el campo; El internet, etc.
+
+## Los juicios de (a)gramaticalidad – las intuiciones
+
+- Empleamos una técnica especial para sacar a luz los conocimientos innatos que tiene un nativo hablante sobre la sintaxis. 
+
+(1) a. Juan compró la película.
+    b. *Juan compró a la película.
+
+- Los juicios de gramaticalidad son experimentalmente válidos y 
+estadísticamente robustos. 
+
+- Son una indicación del sistema interna que regula la formación de las oraciones del idioma. 
+
+## Juicios sintácticos vs. juicios semánticos
+
+- Los juicios sintácticos tienen que ver con la **FORMA/ESTRUCTURA** de una oración y se marca con un asterisco (“*”) para indicar un problema sintáctico – cuando la oración es agramatical.
+
+(2)	a.	*Han los niños jugado.
+	b.	*Padres llevan a sus hijos a la escuela.
+
+- Los juicios semánticos tienen que ver con el **SIGNIFICADO** de una oración y se marca con un hashtag (“#”) para indicar un problema semántico – cuando la oración es anómala. 
  
+(3) a.	#El archivador se bebió una silla.
+    b.	#Las ideas incoloras verdosas duermen furiosamente. 
+		(“Colorless green ideas sleep furiously” Chomsky (1959))
+		
+**Nota**: Es posible que en algunos casos la interpretación es importante, pero nos interesa más aquí los juicios sintácticos – con oraciones estructuralmente ambiguas. 
+
+(4)	a.	El chico tocó el oso con una rama.
+    b.	El chico lo tocó con una rama.
+    
+El conjunto de oraciones gramaticales y agramaticales forman nuestra base de datos. Son observaciones (tal como los astrólogos observan el comportamiento de los cuerpos celestiales) a base de los cuales queremos determinar la esencia del objeto interno de estudio: **la gramatical universal**.
+
+- Nuestra perspectiva es la organización cognitiva de la estructura de la oración en le mente del hablante nativo.
+
+**Pregunta**: Pero ¿Cómo se hace esto?
+
+**La respuesta**: Aplicamos ***el método científico*** para determinar la estructura de la oración. Queremos determinar ***las reglas, o principios, o las leyes (universales)*** de la formación de las oraciones.
+
+# El método científico
+
+¿Qué es el método científico? ¿Cómo se encuentran las leyes?
+
+Apunta lo que dice Richard Feynman, un Premio Nobel de la física
+
+1. 
+
+2. 
+
+3. 
+
+**En resumen**: el método científico
+    - Desarrollar alguna hipótesis para explicar un conjunto reducido de datos
+    - Determinar las implicaciones de la hipótesis
+    - Comprobar las implicaciones al considerar más datos y modificar la hipótesis si es necesario
+
+## Aplicando el método científico – los adjetivos del español
+
+- La estructura de una oración tiene que ver con la distribución de los elementos dentro de la oración – es decir, las condiciones que permite que aparece un elemento, dónde puede aparece etc. 
+
+**Actividad**: Considera (es decir, observa) la distribución de los adjetivos en español en el conjunto de oraciones en (5). Observa su comportamiento. 
+
+(5) a. Una mesa amarilla.
+    b. Un vaso bonito. 
+    c. *Una niña alto. 
+    d. *El chico simpática.
+    e. Una película larga.
+    f. *Un libro aburrida.  
+
+**Una pregunta**: ¿Qué determina la distribución de los adjetivos? Es decir, ¿Cuándo son ***gramaticales*** y cuándo son ***agramaticales***? Ofrece una hipótesis (o sea, “guess”).
+
+**Una hipótesis**: ??
+
+**Una pregunta**: ¿Explica la distribución de los adjetivos en (6) tu hipótesis?
+
+(6) a. Un chico simpático.
+    b. *Unos chicos simpático.
+    c. *Una chica preparadas. 
+    d. Unas chicas preparadas.
+    e. *Los libros corto.	
+    f. *El libro cortos.
+
+**Hipótesis modificada:**
+
+# Los rasgos en la sintaxis
+
+- En el siguiente handout hablaremos de las categorías sintácticas y juegan un papel importante en la sintaxis. Sin embargo, el ejercicio arriba demostrando el método científico aplicado a la sintaxis ya nos demuestra que hay elementos “más pequeños” que la categoría sintáctica: ***los rasgos*** (“features”). 
