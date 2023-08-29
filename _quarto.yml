@@ -14,8 +14,7 @@ website:
         contents:
         - Handout_1.qmd
         - Handout_week2.qmd
-        - test.qmd 
-        
+        - test.qmd
 format:
   html:
     theme: cosmo
