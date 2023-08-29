@@ -13,7 +13,7 @@ website:
       - section: "Handouts"
         contents:
         - Handout_1.qmd
-        - Handout_2.qmd
+        - Handout_week2.qmd
 format:
   html:
     theme: cosmo
