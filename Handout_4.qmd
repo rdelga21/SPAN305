@@ -1,0 +1,278 @@
+---
+title: "Handout 4: La categorías sintácticas (o las partes de la oración)"
+highlight-style: pygments
+format:
+  html: default
+  pdf: default
+  docx: default
+---
+
+# Introducción
+
+- Nuestra tarea como sintácticos es observar el comportamiento de los elementos o las piezas de la oración para determinar las reglas y principios de su combinación (que veremos que, en gran parte, son universales).
+
+**Una pregunta:** ¿Cuáles son estas piezas fundamentales?
+
+**La respuesta:** Las categorías sintácticas (o las partes de la oración)
+  - Los verbos, los sustantivos/nombres, los adjetivos, los adverbios, los determinantes, las conjunciones, las preposiciones, etc.
+  
+**Una pregunta:** Pero, ¿Cómo sabemos que la palabra subrayada en (1a) es un sustantivo y las palabra subrayada en (1b) es un verbo?
+
+(1) a. La *destrucción* de la casa fue inesperada. 
+    b. Anoche, habían *destruido* la casa. 
+    
+**La respuesta:** Por su distribución morfológica y sintáctica. 
+
+- Primero vemos razones para no utilizar las formas “tradicionales” basadas en el significado.
+
+# Las categorías sintácticas: como reconocerlas
+
+- Las definiciones clásicas o tradicionales de las categorías sintácticas, son definiciones semánticas.
+
+- Solo nos centramos en los sustantivos y los verbos. 
+
+**Sustantivo/Nombre:**  Una persona, un lugar, o alguna cosa 
+
+**Verbo:**  Una acción, una ocurrencia, o un estado de ser 
+
+**Tarea en grupo:** En  (2), indica la categoría sintáctica de las palabras subrayadas y decide si las definiciones clásicas las clasificarían correctamente.
+
+(2) a. *La sinceridad* es una cualidad importante. 
+    b. *La revolución* llega mañana.
+    c. *Existen* dos problemas.  
+    d. Asentir con la cabeza ***implica*** consentimiento.
+    
+**Tarea en grupo:** ¿Las palabras subrayadas son problemáticas para las definiciones clásicas? Explica tú respuesta.
+
+(3) a. Los pájaros suelen *cantar* por la mañana. 
+    b. Todos los días me despierta el *cantar* de los pájaros.
+    
+(4) a. Para buscar información utilizo Google.
+    b. Para encontrar la respuesta, mi amigo la googleó.
+    
+(5) a. Tengo un hambre que me muero.
+    b. I am very hungry.
+    
+**Una tarea en grupo:**
+
+- Considera una traducción de parte del poema *Jabberwocky* de Lewis Carrol cogida de Wheatley (2006) *Sintaxis y morfología de la lengua española* en (6). Luego contesta a las preguntas:
+
+(6) Era la *asarvesperia* y los *flexilimosos toves giroscopiaban taledrando* 
+en el *vade*.
+
+**Pregunta 1:** ¿A qué categoría sintáctica pertenecen las palabras subrayadas en (7)?
+
+*asarvesperia*:
+
+
+*flexilimosos*:
+
+
+*giroscopiaban*:
+
+
+*vade*:
+
+
+*toves*:
+
+
+*taledrando*:
+
+
+**Pregunta 2:** ¿Qué significa cada una de las palabras en negrita en (8)?
+
+*asarvesperia*:
+
+
+*flexilimosos*:
+
+
+*giroscopiaban*:
+
+
+*vade*:
+
+
+*toves*:
+
+
+*taledrando*:
+
+**Una pregunta:** ¿Nos ayuda la semántica para determinar la categoría semántica de una palabra?
+
+# Una definición distribucional de las categorías sintácticas:
+
+- Determinamos la distribución de la categoría sintáctica de una palabra por los **afijos** que tiene y el **contexto sintáctico** (donde está en la oración) en que aparece.
+
+(7) a. La *destrucción* de la casa fue inesperada.
+    b. Anoche, habían *destruido* la casa. 
+    
+***Dos tipos de distribución:***
+
+1. **La distribución morfológica** (afijos, prefijos, sufijos etc. que aparece en una palabra o no) 
+
+- En (7a), vemos sufijo *-ción* que aparece en los sustantivos
+
+- En (7b), vemos sufijo *–ido* que aparece en los verbos
+
+2. **La distribución sintáctica** : la posición relativa a palabras cercanas, combinaciones posibles, restricciones sintagmáticas (o sea el tipo de complemento que permite si permite alguno)
+
+- En (7a), vemos *la* que aparece antes de los sustantivos, no permiten complemento sin la preposición *de*
+
+- En (7b), vemos *habían* que antes de los verbos, permite un complemento, *la casa*
+
+# Las categorías sintácticas según su distribución 
+
+## Los verbos
+
+**La distribución morfológica**
+
+- **Algunos afijos derivativos:**
+  - –e: 	gota 		&rarr; gotear;	 blanco &rarr; blanquear
+  - des-:	 pluma 	&rarr; desplumar
+  - en-: 	papel 	&rarr; empapelar
+  - –ificar: 	ejemplo 	&rarr; ejemplificar
+  - –izar: 	órgano 	&rarr; organizar
+  - –ecer: 	húmedo 	&rarr; humedecer
+
+- **Afijos flexivos:** Nos centraremos en estos afijos funcionales
+  - Tiempo
+    - pasado: *canté*, *cantaste*
+    - presente: *canto*, *cantas*
+    - futuro: *cantaré*, *cantarás*
+  - Aspecto 
+    - (Pretérito) imperfecto: *cantaba*, *cantabas*
+    - Pretérito (perfecto simple): *canté*, *cantaste*
+    - Pretérito perfecto compuesto (formas con participio): *he* *cantado*
+    - Progresivo (formas del gerundio): *está* *cantando*
+  - Modo:
+    - Indicativo: *yo canto*, *tú cantas*
+    - Subjuntivo: *yo cante*, *tú cantes*
+    - Imperativo: *canta* (tú), *cantad* (vosotros)
+  - Número (1a, 2a, 3a) & Persona: - solo por concordancia con el sujeto: *María y Pablo cantan; María canta*
+
+- **La distribución sintáctica:**
+  - Sigue a verbos auxiliares y modales: *ha comido, está corriendo; puede venir, debe estudiar etc.*
+  - Puede ser modificado por adverbios: *corrió rápidamente; llegó lentamente; acabó pronto*
+  - Se puede negar con *no*: *no come nada; no escucha etc.*
+  
+## Los sustantivos/Nombres
+
+- **Afijos derivativos:**
+  - Deadjetivales: *-dad (crueldad); -ería (tontería); -ez (estupidez); -or (espesor); -itud (altidud)*
+  - Deverbales: *-ción (creación); -dura (atadura); -ncia (sugerencia); -miento (conocimiento); -dor (hablador); -nte (cantante); sin afijo visible: -a (busca); -e (combate); -o (cargo) *
+  - Denominales: *-ada (cucharada); -aje (aprendizaje); -al (peral); -azo (guantazo); -ero (frutero); -ería (futería)*
+  
+-	**Afijos flexivos:** Nos centramos en estos afijos
+    - Número: plural –s; singular $\emptyset$: coche(s); tomate(s) etc.
+        - Excepciones: Sólo singular: odio(\*s), sangre(\*s); Sólo plural: esposa\*(s), anteojo\*(s)
+    - Género (inherente) invariable: la mano vs. \*el mano, el tren vs. \*la tren
+        - Excepciones: la gata, el gato; la presidenta, el presidente; chico, chica
+        
+- **Distribución sintáctica:**  
+    - Admiten determinantes como 
+        - Artículos: la, el, un, una etc.: *una* casa, *el* coche, *la* Juana etc.
+        - Demostrativos: este, esos, aquel etc.: *estos* libros, *aquella* mesa etc.
+        - Pronombres posesivos: mi, su, tú etc.: mi casa es su casa; tú pelo etc.
+    - Admiten adjetivos como modificadores: un chico *inteligente*, un libro *gordo* etc.
+    - Los adjetivos y los determinantes concuerdan con ellos en número y género: *el* coche *rojo*, *la* casa *roja* etc.
+    - Pueden seguir preposiciones: hacía casa, para José, en misa (muchas veces con determinante; para un amigo; con mi padre etc.)
+    
+## Los Adjetivos
+- **Afijos derivativos**: 
+    - Denominales: -oso (arenoso); -al (estatal); -il (juvenil); -ico
+        (alérgico); -ario (universitario); -esco (carnavalesco); 
+    - Deverbales: -ble (rompible); -nte (preferente); -izo (quebradizo)
+- **Afijos flexivos**: 
+    - Género y número – sólo por concordar con el sustantivo al que modifica:
+        mesa roja; coche rojo etc.
+        - Algunas excepciones: coche azul, mesa azul, verde, grande etc.
+
+- **Distribución sintáctica (simplificada)**: 
+    - Antes o después del sustantivo al que modifica: *un inteligente presidente; un presidente inteligente; su largo trayecto, su trayecto largo; un feliz final, un final feliz*
+        - cuando antes, aparece entre el artículo y el sustantivo: un inteligente presidente; su largo camino
+    - Puede ser modificado por adverbios (de grado o intensificadores) como *muy, demasiado, bastante: muy simpático, bastante fácil, demasiado largo* etc. que proceden al adjetivo
+    - Admiten formas comparativas (*más grande que*) y con formas superlativas (*lo más grande*)
+    - Pueden aparecer después de verbos copulativos (como *ser, parecer* etc.): *Juan es simpático; María parece inteligente* etc.
+        
+## Los adverbios
+- **Afijos derivativos**: 
+    - Adjetivo + mente: *ligeramente, lentamente, felizmente*, etc.
+    - Emparentada con preposiciones: *ante – delante/adelante; tras – atrás/detrás; bajo – debajo/abajo*
+    - Convertidos de adjetivos (o adverbios adjetivales): juega *sucio*, pelea *fuerte*, volar *bajo* etc. 
+    - Simples: *bien, mal, siempre, sí, acaso, entonces* etc.
+- **Afijos flexivos**: 
+    - Son invariables, con algunas excepciones:
+    - Afijos apreciativos: *ahorita, poquito, cerquita, despuesito* etc. 
+    - Prefijos intensivos: *rebién, requetemal, superlejos*
+- **Distribución sintáctica**
+    - Puede aparecer en varias posiciones en la oración, según lo que modifica. 
+        - Modificando verbos: *Pasear por la calle tranquilamente*
+        - Modificando adjetivos: *sumamente satisfecho de los resultados*
+        - Modificando grupos nominales: *incluso tus hijos*
+        - Modificando pronombres: *sólo tú*
+        - Modificando grupos preposicionales: *prácticamente sin esfuerzo*
+        - Modificando la oración: *Probablemente son ya las cuatro*
+    - Puede ser modificado por otros adverbios (de grado o intensificadores) como *muy, bastante, demasiado, tan (muy lentamente, bastante sutilmente, demasiado frecuentemente, tan obviamente)*
+    - No permiten complemento 
+
+## Las preposiciones
+- **Distribución morfológico**: son invariables: *a, ante, bajo, cabe, con, contra, de, desde, durante, en, entre, hacia, hasta, mediante, para, por, según, sin, so, sobre, tras, versus, vía.*
+- **Distribución sintáctica**: 
+    - Siempre tienen complemento (o término)  
+        - nominal: por \*(*su amigo*), con \*(*aquella chica*) etc.
+        - cuando es pronombre personal, el pronombre tiene caso terminal (o dativo): *para mí, por ti* etc.
+        - adjetival: *desde muy pequeña, pasar por excesivamente tonto* etc.
+        - subordinadas sustantivadas: *la noticia de que se había producido un explosión, la razón de cambiar de trabajo*
+        
+# Elementos léxicos vs. elementos funcionales (o gramaticales)
+- **Léxicas**: (por regla general, son clases abiertas – se admiten miembros nuevos) Expresan significado sustancial de las cosas; se remiten a realidades externas al sistema gramatical.
+
+- **Funcionales(/gramaticales)**: (por regla general, son las clases cerradas – no permiten miembros nuevos). Expresa la información gramatical de la oración. El pegamento que mantiene la oración intacta. 
+
+(8) #Las ideas incoloras verdosas duermen furiosamente. 
+		(“Colorless green ideas sleep furiously” Chomsky (1959))
+    - Podemos determinar las categorías de las palabras en gran parte por la información funcional/gramatical de la oración que se reconoce por la morfología flexiva y la distribución sintáctica. 
+    - Pero al no conocer un sustantivo, un adjetivo, o un verbo en particular, no se sabe el significado léxico, puesto que no depende del sistema gramatical, sino de que conocimientos externos a ello.
+    
+- Prestaciones de palabras entre lenguas
+	**No** se prestan las palabras ***funcionales*** - ¿son universales?
+	**Sí** se prestan las palabras ***léxicas***
+	
+## Algunas clases funcionales:
+- **Las preposiciones (P)**: *a, ante, bajo, cabe, con, contra, de, desde, durante, en, entre, hacia, hasta, mediante, para, por, según, sin, so, sobre, tras, versus, vía. *
+- **Los determinantes (D)**
+    (a) **Artículos**: el, los, la(s), un(os), un(as) 
+    (b) **Demostrativos (artículos deícticos)**: esto(s), esta(s), esa(s), eso(s), aquel, aquella(s), aquellos
+    (c) **Cuantificadores**: Cada, algún, mucho, poco, todo, ambos etc.
+    (d) **Numerales ordinales**: primer, segundo, tercer, cuarto etc.  
+    (e) **Pronombres posesivos**: mi, tu, su, nuestro, vuestro
+    (f) **Algunas palabras Qu**: Cuál (cuál libro), qué (qué persona). 
+- **Las conjunciones (Conj)**: y, o, ni…ni
+- **Los complementantes (C) (una clase de conjunción)**: que, si 
+- **Los auxiliares**: haber (he/había venido); estar (está subiendo); ser (fue vendido)
+- **Los modales**: poder, deber (de), haber de, tener que
+- **La negación (Neg)**: no
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
