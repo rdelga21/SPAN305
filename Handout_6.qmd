@@ -1,0 +1,204 @@
+---
+title: "Handout 6: Más sintagmas"
+highlight-style: pygments
+format:
+  html: default
+  pdf: default
+  docx: default
+---
+
+# **El Sintagma Adjetival (SAdj)**
+
+(1)	a.	La película es [larga]
+  	b.	La película es [muy larga]
+  	
+(2)	a.	[Larga] es la película.
+    b.	[Muy larga] es la película.
+
+(3) a. ![](larga.png)
+    b. ![](muylarga.png)
+    
+# **El Sintagma Adverbial (SAdv)**
+
+(4)	a. 	Juan salió [lentamente]   
+    b.  Juan salió [bastante lentamente]
+
+(5)	a. 	[Lentamente]  salió Juan.
+    b.  [Bastante lentamente] salió Juan.
+    
+(6) a. lentamente.png)
+    b. ![](muylentamente.png)
+    
+# **Pruebas de constituyente**
+
+- El movimiento (o el desplazamiento) es lo que llamamos una prueba de constituyente.
+- Un constituyente es un grupo de palabras que se porta como una unidad sintáctica. A estas unidades, les ponemos etiquetas como SD, SN, SAdj, SAdv, y como veremos más abajo, SV.
+- Es decir, los nodos y todo debajo de los nodos forman un constituyente. 
+
+**Una pregunta**: ¿Por qué podemos mover SDs, SNs, etc? 
+
+
+**Respuesta**: Porque son constituyentes. 
+
+- En este sentido el movimiento es una prueba de constituyente. Y hay más pruebas.
+
+## **La sustitución**
+
+### El SD
+
+- Cuándo un proforma sustituye una secuencia de palabra y resulta en el mismo significado, esta secuencia de palabras forman un constituyente. 
+
+(7)	a.	Juan se bebió [mi cerveza].	
+    b.	[Mi cerveza], se bebió Juan.
+    c. ![](micerveza.png)
+    
+- Ahora, considera las siguientes oraciones. 
+
+(8)	a.	Juan se bebió mi cerveza.
+    b.	La compré yo.
+    c.	Me costó mucho. 
+    
+- Decimos que la en (8b) y el sujeto nulo en (8c) sustituye “mi cerveza” ya que se refieren a “mi cerveza”.
+
+- Sintácticamente, estos pronombres sustituyen el nodo SD
+
+### El SAdj y el SAdv
+
+- Considera el SAdj en (9).
+
+
+(9)	a.	Esta película es [muy larga]
+    b.	Aquella lo es también.
+    c.	Esta es así también.
+
+**Una pregunta**: ¿Qué sustituye *lo* en (9b) y *así* en (9c)? ¿Es decir, que significan *lo* en (9b) y *así* en (9c)
+
+- Considera el SAdv en (10).
+
+(10)	a.	Juan salió [bastante lentamente]
+      b.	María salió así también.
+
+**Una pregunta**: ¿Qué sustituye *así* en (10b)? ¿Es decir, que significa *así* en (10b)
+
+## **La coordinación**
+
+- Considera las oraciones en (11) en que aparecen las coordinaciones *y*, *ni*, y *pero*
+
+
+(11) a.	Tomas se comió una manzana y un queso.
+     b.	La mesa pequeña y la silla con ruedas tienen que venderse.
+     c.	Susana hizo los deberes muy rápidamente y bastante bien.
+     d.	Curiosamente, contestó la pregunta bien y mal.
+     e.	El edificio no es muy alto ni muy lujoso.
+     f.	Un perro sucio pero simpático durmió en mi garaje.
+
+**Actividad**: Subraya las secuencias de palabras que están coordinadas en (11).
+
+
+
+**Pregunta**: ¿Son constituyentes lo que coordinan y, ni y pero? 
+
+# **El sintagma verbal**
+
+**Una actividad en clase**: Considera las oraciones en (12) a (13) con el proforma “hacerlo”.
+
+(12)  a. Carlos canta.
+      b. Consuelo lo hace también.
+
+(13)	a. Laura nada.
+      b. Pedro lo hace también.
+      
+**Pregunta 1**: ¿Qué sustituye *hacerlo* en (12b) y en (13b)? 
+
+- Ahora, considera las oraciones en (14) a (16).
+
+(14)	a.	María corrió el maratón rápidamente. 
+      b.	Josefina lo hizo también.
+
+
+
+(15)	a.	Juana construyó una casa en un año.
+    	b.	Carla lo hizo también. 
+
+
+
+(16)	a.	Jorge abrió la puerta con una llave.
+      b.	Juan lo hizo también. 
+      
+**Actividad**: Subraya las palabras que sustituye hacerlo en (14) a (16). 
+
+**Actividad**: En grupos crea oraciones empleando la coordinación para demostrar que las secuencias de palabras subrayadas en (14) a (16) son constituyentes.
+
+# **Los modificadores**
+
+- Considera el comportamiento de los modificadores de los Ns, Adjs, Advs, y Vs subrayados y las oraciones en (18). 
+
+**Nota**: Estamos observándolos para sacar una regla sintáctica sobre los modificadores.
+
+(17) a. ![](conllave.png)
+     b. ![](muchasentradas.png)
+     c. ![](muyagil.png)
+     d. ![](rapidamente.png)
+     
+(18)	a.	Hay un pájaro bonito y un gusano feo en mi jardín.
+      b.	Juan canta bien pero baila mal.
+
+
+**Pregunta 1**: ¿Por qué en (18a) *feo* **no** puede modificar *pájaro*, y *bonito* **no** puede modificar *gusano*? ¿Por qué *bonito* solo puede modificar *pájaro*, y *feo* solo puede modificar *gusano*? ¿Por qué en (18b) *mal* **no** puede modificar *cantar*, y *bien* **no** puede modificar *baila*? ¿Por qué *bien* solo puede modificar *cantar*, y *mal* solo puede modificar *bailar*?
+
+**Es decir**: ¿Qué conclusión podemos sacar sobre la relación sintáctica entre los modificadores, los elementos modificados y los sintagmas? 
+
+¿Dónde tiene que estar el modificador para modificar otro elemento?
+
+**Conclusión:**
+
+
+- Ahora, considera la oración ambigua en (19). Apunta las dos interpretaciones.
+
+(19)	Pedro compró un libro con una moneda.
+
+
+	Interpretación 1:
+
+
+
+	Interpretación 2:
+
+
+**Una pregunta**: A base de nuestras conclusiones sobre la relación estructural entre los modificadores y los sintagmas ¿Qué diferencia estructural esperarías entre las dos interpretaciones de la oración ambigua? ¿En qué sintagma estará *con una moneda* en interpretación 1 y en interpretación 2?
+
+(19) **Principio de modificación**: Si un SX (un sintagma con la categoría X, es decir, cualquier categoría) modifica otro SY, SX es hijo de SY (y por extensión hermano del núcleo de SY).
+
+Pero ¿Qué significan ***núcleo***, ***padre***, ***hijo*** y ***hermano***?
+
+- Definimos estas nociones estructurales a base de los dos árboles que corresponden a las dos interpretaciones de (19), repetido abajo en (20).
+
+(20) 	Pedro compró un libro con una moneda.
+
+(21) a. ![](structure1.png)
+     b. ![](structure2.png)
+     
+- En (21a), el SP (con una moneda) es hijo de SN (y hermano de N)
+- En (21b), el SP (con una moneda) es hijo de SV (y hermano de V)
+    
+**Actividad**: En grupos de 2-3, crea oraciones, empleando las pruebas de constituyentes (el movimiento, la sustitución y la coordinación), que apoya esta conclusión sobre las estructuras distintas de las dos interpretaciones de la oración ambigua. 
+
+**Practica**: Dibuja los árboles para los siguientes sintagmas
+
+(22) a.	una cerveza
+     b.	una bonita historia
+     c.	una mujer muy alta
+     d.	en la mesa
+     e.	para llegar a la hora
+     f.	el libro del siglo
+     g.	hizo el proyecto lentamente por la mañana
+     h.	por hablar mucho
+     i.	un joven colombiano
+     j.	Juan
+
+
+
+
+
+
+
